@@ -1,6 +1,4 @@
-
-inputf="/disks/dacelo/data/raw_data/tree_EM1/Project_SN7001117R_0083_CKulheim_LBronham_Melaleuca/"
-outputf="/disks/dacelo/data/QC/Project_SN7001117R_0083_CKulheim_LBronham_Melaleuca/mash/"
+outputf="/data/within_individual_selection/mash/"
 
 mkdir $outputf
 
@@ -15,29 +13,19 @@ for tree in RB5 RB7 RB98; do
 
 	for branch in A B C D E F G H; do
 
+		# this uses info in a tsv file to find all fastq files from one branch. Should be 12 files in most of our datasets
+		# 12 files are forward and reverse reads, for each of 3 replicate samples, sequenced independently on two lanes (2*3*2=12)
 		fastqs=$(awk -v tree=$tree -v branch=$branch -F"\t" '$1 == tree && $2 == branch { print "/data/raw_data"tree"/"$3"/"$4 }' sequencing_file_details.tsv)
 
-		# now see if I can run mash on that set of fastqs direct to get the sketch
-		# otherwise cat them and run it that way
+		prefix=$tree"_"$branch
+
+		# cat the fastqs and pipe to mash (stdin input is a - in -r)
+		cat $fastqs | mash sketch -k 21 -r - -p $threads -m $m -k $kmer_size -s $s -o $prefix
 
 	done
 
 
 done
-
-for in1 in $(find $inputf -name "*R1_001.fastq.gz"); do
-    in2=${in1%%R1_001.fastq.gz}"R2_001.fastq.gz"
-
-    id="$(dirname $in1)"
-    id="$(basename $id)"
-    readf=$id".fastq.gz"
-    cat $in1 $in2 > $readf
-
-done
-
-# make the mash sketches
-gzs=$(find *.fastq.gz)
-mash sketch -p $threads -m $m -k $kmer_size -s $s $gzs
 
 # use mash paste to join the sketches together
 fs=$(find *.msh)
