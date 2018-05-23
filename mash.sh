@@ -11,6 +11,20 @@ s=1000000 #Sketch size. Each sketch will have at most this many non-redundant mi
 
 cd $outputf
 
+for tree in RB5 RB7 RB98; do
+
+	for branch in A B C D E F G H; do
+
+		fastqs=$(awk -v tree=$tree -v branch=$branch -F"\t" '$1 == tree && $2 == branch { print "/data/raw_data"tree"/"$3"/"$4 }' sequencing_file_details.tsv)
+
+		# now see if I can run mash on that set of fastqs direct to get the sketch
+		# otherwise cat them and run it that way
+
+	done
+
+
+done
+
 for in1 in $(find $inputf -name "*R1_001.fastq.gz"); do
     in2=${in1%%R1_001.fastq.gz}"R2_001.fastq.gz"
 

@@ -1,0 +1,289 @@
+tree_id	branch_id	run_id	raw_data_file	year_sampled	year_sequenced
+RB7	A	SN877_0428_RLanfear_RSB_Eucalyptus_gDNA	RL41_S1_R1_001.fastq.gz	2016	2016
+RB7	A	SN877_0428_RLanfear_RSB_Eucalyptus_gDNA	RL41_S1_R2_001.fastq.gz	2016	2016
+RB7	B	SN877_0428_RLanfear_RSB_Eucalyptus_gDNA	RL42_S2_R1_001.fastq.gz	2016	2016
+RB7	B	SN877_0428_RLanfear_RSB_Eucalyptus_gDNA	RL42_S2_R2_001.fastq.gz	2016	2016
+RB7	C	SN877_0428_RLanfear_RSB_Eucalyptus_gDNA	RL43_S3_R1_001.fastq.gz	2016	2016
+RB7	C	SN877_0428_RLanfear_RSB_Eucalyptus_gDNA	RL43_S3_R2_001.fastq.gz	2016	2016
+RB7	D	SN877_0428_RLanfear_RSB_Eucalyptus_gDNA	RL44_S4_R1_001.fastq.gz	2016	2016
+RB7	D	SN877_0428_RLanfear_RSB_Eucalyptus_gDNA	RL44_S4_R2_001.fastq.gz	2016	2016
+RB7	E	SN877_0428_RLanfear_RSB_Eucalyptus_gDNA	RL45_S5_R1_001.fastq.gz	2016	2016
+RB7	E	SN877_0428_RLanfear_RSB_Eucalyptus_gDNA	RL45_S5_R2_001.fastq.gz	2016	2016
+RB7	F	SN877_0428_RLanfear_RSB_Eucalyptus_gDNA	RL46_S6_R1_001.fastq.gz	2016	2016
+RB7	F	SN877_0428_RLanfear_RSB_Eucalyptus_gDNA	RL46_S6_R2_001.fastq.gz	2016	2016
+RB7	G	SN877_0428_RLanfear_RSB_Eucalyptus_gDNA	RL47_S7_R1_001.fastq.gz	2016	2016
+RB7	G	SN877_0428_RLanfear_RSB_Eucalyptus_gDNA	RL47_S7_R2_001.fastq.gz	2016	2016
+RB7	H	SN877_0428_RLanfear_RSB_Eucalyptus_gDNA	RL48_S8_R1_001.fastq.gz	2016	2016
+RB7	H	SN877_0428_RLanfear_RSB_Eucalyptus_gDNA	RL48_S8_R2_001.fastq.gz	2016	2016
+RB7	A	SN877_0428_RLanfear_RSB_Eucalyptus_gDNA	RL49_S9_R1_001.fastq.gz	2016	2016
+RB7	A	SN877_0428_RLanfear_RSB_Eucalyptus_gDNA	RL49_S9_R2_001.fastq.gz	2016	2016
+RB7	B	SN877_0428_RLanfear_RSB_Eucalyptus_gDNA	RL50_S10_R1_001.fastq.gz	2016	2016
+RB7	B	SN877_0428_RLanfear_RSB_Eucalyptus_gDNA	RL50_S10_R2_001.fastq.gz	2016	2016
+RB7	C	SN877_0428_RLanfear_RSB_Eucalyptus_gDNA	RL51_S11_R1_001.fastq.gz	2016	2016
+RB7	C	SN877_0428_RLanfear_RSB_Eucalyptus_gDNA	RL51_S11_R2_001.fastq.gz	2016	2016
+RB7	D	SN877_0428_RLanfear_RSB_Eucalyptus_gDNA	RL52_S12_R1_001.fastq.gz	2016	2016
+RB7	D	SN877_0428_RLanfear_RSB_Eucalyptus_gDNA	RL52_S12_R2_001.fastq.gz	2016	2016
+RB7	E	SN877_0428_RLanfear_RSB_Eucalyptus_gDNA	RL53_S13_R1_001.fastq.gz	2016	2016
+RB7	E	SN877_0428_RLanfear_RSB_Eucalyptus_gDNA	RL53_S13_R2_001.fastq.gz	2016	2016
+RB7	F	SN877_0428_RLanfear_RSB_Eucalyptus_gDNA	RL54_S14_R1_001.fastq.gz	2016	2016
+RB7	F	SN877_0428_RLanfear_RSB_Eucalyptus_gDNA	RL54_S14_R2_001.fastq.gz	2016	2016
+RB7	G	SN877_0428_RLanfear_RSB_Eucalyptus_gDNA	RL55_S15_R1_001.fastq.gz	2016	2016
+RB7	G	SN877_0428_RLanfear_RSB_Eucalyptus_gDNA	RL55_S15_R2_001.fastq.gz	2016	2016
+RB7	H	SN877_0428_RLanfear_RSB_Eucalyptus_gDNA	RL56_S16_R1_001.fastq.gz	2016	2016
+RB7	H	SN877_0428_RLanfear_RSB_Eucalyptus_gDNA	RL56_S16_R2_001.fastq.gz	2016	2016
+RB7	A	SN877_0428_RLanfear_RSB_Eucalyptus_gDNA	RL57_S17_R1_001.fastq.gz	2016	2016
+RB7	A	SN877_0428_RLanfear_RSB_Eucalyptus_gDNA	RL57_S17_R2_001.fastq.gz	2016	2016
+RB7	B	SN877_0428_RLanfear_RSB_Eucalyptus_gDNA	RL58_S18_R1_001.fastq.gz	2016	2016
+RB7	B	SN877_0428_RLanfear_RSB_Eucalyptus_gDNA	RL58_S18_R2_001.fastq.gz	2016	2016
+RB7	C	SN877_0428_RLanfear_RSB_Eucalyptus_gDNA	RL59_S19_R1_001.fastq.gz	2016	2016
+RB7	C	SN877_0428_RLanfear_RSB_Eucalyptus_gDNA	RL59_S19_R2_001.fastq.gz	2016	2016
+RB7	D	SN877_0428_RLanfear_RSB_Eucalyptus_gDNA	RL60_S20_R1_001.fastq.gz	2016	2016
+RB7	D	SN877_0428_RLanfear_RSB_Eucalyptus_gDNA	RL60_S20_R2_001.fastq.gz	2016	2016
+RB7	E	SN877_0428_RLanfear_RSB_Eucalyptus_gDNA	RL61_S21_R1_001.fastq.gz	2016	2016
+RB7	E	SN877_0428_RLanfear_RSB_Eucalyptus_gDNA	RL61_S21_R2_001.fastq.gz	2016	2016
+RB7	F	SN877_0428_RLanfear_RSB_Eucalyptus_gDNA	RL62_S22_R1_001.fastq.gz	2016	2016
+RB7	F	SN877_0428_RLanfear_RSB_Eucalyptus_gDNA	RL62_S22_R2_001.fastq.gz	2016	2016
+RB7	G	SN877_0428_RLanfear_RSB_Eucalyptus_gDNA	RL63_S23_R1_001.fastq.gz	2016	2016
+RB7	G	SN877_0428_RLanfear_RSB_Eucalyptus_gDNA	RL63_S23_R2_001.fastq.gz	2016	2016
+RB7	H	SN877_0428_RLanfear_RSB_Eucalyptus_gDNA	RL64_S24_R1_001.fastq.gz	2016	2016
+RB7	H	SN877_0428_RLanfear_RSB_Eucalyptus_gDNA	RL64_S24_R2_001.fastq.gz	2016	2016
+RB7	A	SN877_0431_RLanfear_RSB_Eucalyptus_gDNA	RL41_S1_R1_001.fastq.gz	2016	2016
+RB7	A	SN877_0431_RLanfear_RSB_Eucalyptus_gDNA	RL41_S1_R2_001.fastq.gz	2016	2016
+RB7	B	SN877_0431_RLanfear_RSB_Eucalyptus_gDNA	RL42_S2_R1_001.fastq.gz	2016	2016
+RB7	B	SN877_0431_RLanfear_RSB_Eucalyptus_gDNA	RL42_S2_R2_001.fastq.gz	2016	2016
+RB7	C	SN877_0431_RLanfear_RSB_Eucalyptus_gDNA	RL43_S3_R1_001.fastq.gz	2016	2016
+RB7	C	SN877_0431_RLanfear_RSB_Eucalyptus_gDNA	RL43_S3_R2_001.fastq.gz	2016	2016
+RB7	D	SN877_0431_RLanfear_RSB_Eucalyptus_gDNA	RL44_S4_R1_001.fastq.gz	2016	2016
+RB7	D	SN877_0431_RLanfear_RSB_Eucalyptus_gDNA	RL44_S4_R2_001.fastq.gz	2016	2016
+RB7	E	SN877_0431_RLanfear_RSB_Eucalyptus_gDNA	RL45_S5_R1_001.fastq.gz	2016	2016
+RB7	E	SN877_0431_RLanfear_RSB_Eucalyptus_gDNA	RL45_S5_R2_001.fastq.gz	2016	2016
+RB7	F	SN877_0431_RLanfear_RSB_Eucalyptus_gDNA	RL46_S6_R1_001.fastq.gz	2016	2016
+RB7	F	SN877_0431_RLanfear_RSB_Eucalyptus_gDNA	RL46_S6_R2_001.fastq.gz	2016	2016
+RB7	G	SN877_0431_RLanfear_RSB_Eucalyptus_gDNA	RL47_S7_R1_001.fastq.gz	2016	2016
+RB7	G	SN877_0431_RLanfear_RSB_Eucalyptus_gDNA	RL47_S7_R2_001.fastq.gz	2016	2016
+RB7	H	SN877_0431_RLanfear_RSB_Eucalyptus_gDNA	RL48_S8_R1_001.fastq.gz	2016	2016
+RB7	H	SN877_0431_RLanfear_RSB_Eucalyptus_gDNA	RL48_S8_R2_001.fastq.gz	2016	2016
+RB7	A	SN877_0431_RLanfear_RSB_Eucalyptus_gDNA	RL49_S9_R1_001.fastq.gz	2016	2016
+RB7	A	SN877_0431_RLanfear_RSB_Eucalyptus_gDNA	RL49_S9_R2_001.fastq.gz	2016	2016
+RB7	B	SN877_0431_RLanfear_RSB_Eucalyptus_gDNA	RL50_S10_R1_001.fastq.gz	2016	2016
+RB7	B	SN877_0431_RLanfear_RSB_Eucalyptus_gDNA	RL50_S10_R2_001.fastq.gz	2016	2016
+RB7	C	SN877_0431_RLanfear_RSB_Eucalyptus_gDNA	RL51_S11_R1_001.fastq.gz	2016	2016
+RB7	C	SN877_0431_RLanfear_RSB_Eucalyptus_gDNA	RL51_S11_R2_001.fastq.gz	2016	2016
+RB7	D	SN877_0431_RLanfear_RSB_Eucalyptus_gDNA	RL52_S12_R1_001.fastq.gz	2016	2016
+RB7	D	SN877_0431_RLanfear_RSB_Eucalyptus_gDNA	RL52_S12_R2_001.fastq.gz	2016	2016
+RB7	E	SN877_0431_RLanfear_RSB_Eucalyptus_gDNA	RL53_S13_R1_001.fastq.gz	2016	2016
+RB7	E	SN877_0431_RLanfear_RSB_Eucalyptus_gDNA	RL53_S13_R2_001.fastq.gz	2016	2016
+RB7	F	SN877_0431_RLanfear_RSB_Eucalyptus_gDNA	RL54_S14_R1_001.fastq.gz	2016	2016
+RB7	F	SN877_0431_RLanfear_RSB_Eucalyptus_gDNA	RL54_S14_R2_001.fastq.gz	2016	2016
+RB7	G	SN877_0431_RLanfear_RSB_Eucalyptus_gDNA	RL55_S15_R1_001.fastq.gz	2016	2016
+RB7	G	SN877_0431_RLanfear_RSB_Eucalyptus_gDNA	RL55_S15_R2_001.fastq.gz	2016	2016
+RB7	H	SN877_0431_RLanfear_RSB_Eucalyptus_gDNA	RL56_S16_R1_001.fastq.gz	2016	2016
+RB7	H	SN877_0431_RLanfear_RSB_Eucalyptus_gDNA	RL56_S16_R2_001.fastq.gz	2016	2016
+RB7	A	SN877_0431_RLanfear_RSB_Eucalyptus_gDNA	RL57_S17_R1_001.fastq.gz	2016	2016
+RB7	A	SN877_0431_RLanfear_RSB_Eucalyptus_gDNA	RL57_S17_R2_001.fastq.gz	2016	2016
+RB7	B	SN877_0431_RLanfear_RSB_Eucalyptus_gDNA	RL58_S18_R1_001.fastq.gz	2016	2016
+RB7	B	SN877_0431_RLanfear_RSB_Eucalyptus_gDNA	RL58_S18_R2_001.fastq.gz	2016	2016
+RB7	C	SN877_0431_RLanfear_RSB_Eucalyptus_gDNA	RL59_S19_R1_001.fastq.gz	2016	2016
+RB7	C	SN877_0431_RLanfear_RSB_Eucalyptus_gDNA	RL59_S19_R2_001.fastq.gz	2016	2016
+RB7	D	SN877_0431_RLanfear_RSB_Eucalyptus_gDNA	RL60_S20_R1_001.fastq.gz	2016	2016
+RB7	D	SN877_0431_RLanfear_RSB_Eucalyptus_gDNA	RL60_S20_R2_001.fastq.gz	2016	2016
+RB7	E	SN877_0431_RLanfear_RSB_Eucalyptus_gDNA	RL61_S21_R1_001.fastq.gz	2016	2016
+RB7	E	SN877_0431_RLanfear_RSB_Eucalyptus_gDNA	RL61_S21_R2_001.fastq.gz	2016	2016
+RB7	F	SN877_0431_RLanfear_RSB_Eucalyptus_gDNA	RL62_S22_R1_001.fastq.gz	2016	2016
+RB7	F	SN877_0431_RLanfear_RSB_Eucalyptus_gDNA	RL62_S22_R2_001.fastq.gz	2016	2016
+RB7	G	SN877_0431_RLanfear_RSB_Eucalyptus_gDNA	RL63_S23_R1_001.fastq.gz	2016	2016
+RB7	G	SN877_0431_RLanfear_RSB_Eucalyptus_gDNA	RL63_S23_R2_001.fastq.gz	2016	2016
+RB7	H	SN877_0431_RLanfear_RSB_Eucalyptus_gDNA	RL64_S24_R1_001.fastq.gz	2016	2016
+RB7	H	SN877_0431_RLanfear_RSB_Eucalyptus_gDNA	RL64_S24_R2_001.fastq.gz	2016	2016
+RB5	A	SN877_0459_RLanfear_RSB_Epauciflora_gDNA	65_RB5A_1_S1_R1_001.fastq.gz		
+RB5	A	SN877_0459_RLanfear_RSB_Epauciflora_gDNA	65_RB5A_1_S1_R2_001.fastq.gz		
+RB5	B	SN877_0459_RLanfear_RSB_Epauciflora_gDNA	66_RB5B_1_S2_R1_001.fastq.gz		
+RB5	B	SN877_0459_RLanfear_RSB_Epauciflora_gDNA	66_RB5B_1_S2_R2_001.fastq.gz		
+RB5	C	SN877_0459_RLanfear_RSB_Epauciflora_gDNA	67_RB5C_1_S3_R1_001.fastq.gz		
+RB5	C	SN877_0459_RLanfear_RSB_Epauciflora_gDNA	67_RB5C_1_S3_R2_001.fastq.gz		
+RB5	D	SN877_0459_RLanfear_RSB_Epauciflora_gDNA	68_RB5D_1_S4_R1_001.fastq.gz		
+RB5	D	SN877_0459_RLanfear_RSB_Epauciflora_gDNA	68_RB5D_1_S4_R2_001.fastq.gz		
+RB5	E	SN877_0459_RLanfear_RSB_Epauciflora_gDNA	69_RB5E_1_S5_R1_001.fastq.gz		
+RB5	E	SN877_0459_RLanfear_RSB_Epauciflora_gDNA	69_RB5E_1_S5_R2_001.fastq.gz		
+RB5	F	SN877_0459_RLanfear_RSB_Epauciflora_gDNA	70_RB5F_1_S6_R1_001.fastq.gz		
+RB5	F	SN877_0459_RLanfear_RSB_Epauciflora_gDNA	70_RB5F_1_S6_R2_001.fastq.gz		
+RB5	G	SN877_0459_RLanfear_RSB_Epauciflora_gDNA	71_RB5G_1_S7_R1_001.fastq.gz		
+RB5	G	SN877_0459_RLanfear_RSB_Epauciflora_gDNA	71_RB5G_1_S7_R2_001.fastq.gz		
+RB5	H	SN877_0459_RLanfear_RSB_Epauciflora_gDNA	72_RB5H_1_S8_R1_001.fastq.gz		
+RB5	H	SN877_0459_RLanfear_RSB_Epauciflora_gDNA	72_RB5H_1_S8_R2_001.fastq.gz		
+RB5	A	SN877_0459_RLanfear_RSB_Epauciflora_gDNA	73_RB5A_1_S9_R1_001.fastq.gz		
+RB5	A	SN877_0459_RLanfear_RSB_Epauciflora_gDNA	73_RB5A_1_S9_R2_001.fastq.gz		
+RB5	B	SN877_0459_RLanfear_RSB_Epauciflora_gDNA	74_RB5B_1_S10_R1_001.fastq.gz		
+RB5	B	SN877_0459_RLanfear_RSB_Epauciflora_gDNA	74_RB5B_1_S10_R2_001.fastq.gz		
+RB5	C	SN877_0459_RLanfear_RSB_Epauciflora_gDNA	75_RB5C_1_S11_R1_001.fastq.gz		
+RB5	C	SN877_0459_RLanfear_RSB_Epauciflora_gDNA	75_RB5C_1_S11_R2_001.fastq.gz		
+RB5	D	SN877_0459_RLanfear_RSB_Epauciflora_gDNA	76_RB5D_1_S12_R1_001.fastq.gz		
+RB5	D	SN877_0459_RLanfear_RSB_Epauciflora_gDNA	76_RB5D_1_S12_R2_001.fastq.gz		
+RB5	E	SN877_0459_RLanfear_RSB_Epauciflora_gDNA	77_RB5E_1_S13_R1_001.fastq.gz		
+RB5	E	SN877_0459_RLanfear_RSB_Epauciflora_gDNA	77_RB5E_1_S13_R2_001.fastq.gz		
+RB5	F	SN877_0459_RLanfear_RSB_Epauciflora_gDNA	78_RB5F_1_S14_R1_001.fastq.gz		
+RB5	F	SN877_0459_RLanfear_RSB_Epauciflora_gDNA	78_RB5F_1_S14_R2_001.fastq.gz		
+RB5	G	SN877_0459_RLanfear_RSB_Epauciflora_gDNA	79_RB5G_1_S15_R1_001.fastq.gz		
+RB5	G	SN877_0459_RLanfear_RSB_Epauciflora_gDNA	79_RB5G_1_S15_R2_001.fastq.gz		
+RB5	H	SN877_0459_RLanfear_RSB_Epauciflora_gDNA	80_RB5H_1_S16_R1_001.fastq.gz		
+RB5	H	SN877_0459_RLanfear_RSB_Epauciflora_gDNA	80_RB5H_1_S16_R2_001.fastq.gz		
+RB5	A	SN877_0459_RLanfear_RSB_Epauciflora_gDNA	81_RB5A_1_S17_R1_001.fastq.gz		
+RB5	A	SN877_0459_RLanfear_RSB_Epauciflora_gDNA	81_RB5A_1_S17_R2_001.fastq.gz		
+RB5	B	SN877_0459_RLanfear_RSB_Epauciflora_gDNA	82_RB5B_1_S18_R1_001.fastq.gz		
+RB5	B	SN877_0459_RLanfear_RSB_Epauciflora_gDNA	82_RB5B_1_S18_R2_001.fastq.gz		
+RB5	C	SN877_0459_RLanfear_RSB_Epauciflora_gDNA	83_RB5C_1_S19_R1_001.fastq.gz		
+RB5	C	SN877_0459_RLanfear_RSB_Epauciflora_gDNA	83_RB5C_1_S19_R2_001.fastq.gz		
+RB5	D	SN877_0459_RLanfear_RSB_Epauciflora_gDNA	84_RB5D_1_S20_R1_001.fastq.gz		
+RB5	D	SN877_0459_RLanfear_RSB_Epauciflora_gDNA	84_RB5D_1_S20_R2_001.fastq.gz		
+RB5	E	SN877_0459_RLanfear_RSB_Epauciflora_gDNA	85_RB5E_1_S21_R1_001.fastq.gz		
+RB5	E	SN877_0459_RLanfear_RSB_Epauciflora_gDNA	85_RB5E_1_S21_R2_001.fastq.gz		
+RB5	F	SN877_0459_RLanfear_RSB_Epauciflora_gDNA	86_RB5F_1_S22_R1_001.fastq.gz		
+RB5	F	SN877_0459_RLanfear_RSB_Epauciflora_gDNA	86_RB5F_1_S22_R2_001.fastq.gz		
+RB5	G	SN877_0459_RLanfear_RSB_Epauciflora_gDNA	87_RB5G_1_S23_R1_001.fastq.gz		
+RB5	G	SN877_0459_RLanfear_RSB_Epauciflora_gDNA	87_RB5G_1_S23_R2_001.fastq.gz		
+RB5	H	SN877_0459_RLanfear_RSB_Epauciflora_gDNA	88_RB5H_1_S24_R1_001.fastq.gz		
+RB5	H	SN877_0459_RLanfear_RSB_Epauciflora_gDNA	88_RB5H_1_S24_R2_001.fastq.gz		
+RB5	A	SN877_0461_RLanfear_RSB_Epauciflora_gDNA	65_RB5A_1_S1_R1_001.fastq.gz		
+RB5	A	SN877_0461_RLanfear_RSB_Epauciflora_gDNA	65_RB5A_1_S1_R2_001.fastq.gz		
+RB5	B	SN877_0461_RLanfear_RSB_Epauciflora_gDNA	66_RB5B_1_S2_R1_001.fastq.gz		
+RB5	B	SN877_0461_RLanfear_RSB_Epauciflora_gDNA	66_RB5B_1_S2_R2_001.fastq.gz		
+RB5	C	SN877_0461_RLanfear_RSB_Epauciflora_gDNA	67_RB5C_1_S3_R1_001.fastq.gz		
+RB5	C	SN877_0461_RLanfear_RSB_Epauciflora_gDNA	67_RB5C_1_S3_R2_001.fastq.gz		
+RB5	D	SN877_0461_RLanfear_RSB_Epauciflora_gDNA	68_RB5D_1_S4_R1_001.fastq.gz		
+RB5	D	SN877_0461_RLanfear_RSB_Epauciflora_gDNA	68_RB5D_1_S4_R2_001.fastq.gz		
+RB5	E	SN877_0461_RLanfear_RSB_Epauciflora_gDNA	69_RB5E_1_S5_R1_001.fastq.gz		
+RB5	E	SN877_0461_RLanfear_RSB_Epauciflora_gDNA	69_RB5E_1_S5_R2_001.fastq.gz		
+RB5	F	SN877_0461_RLanfear_RSB_Epauciflora_gDNA	70_RB5F_1_S6_R1_001.fastq.gz		
+RB5	F	SN877_0461_RLanfear_RSB_Epauciflora_gDNA	70_RB5F_1_S6_R2_001.fastq.gz		
+RB5	G	SN877_0461_RLanfear_RSB_Epauciflora_gDNA	71_RB5G_1_S7_R1_001.fastq.gz		
+RB5	G	SN877_0461_RLanfear_RSB_Epauciflora_gDNA	71_RB5G_1_S7_R2_001.fastq.gz		
+RB5	H	SN877_0461_RLanfear_RSB_Epauciflora_gDNA	72_RB5H_1_S8_R1_001.fastq.gz		
+RB5	H	SN877_0461_RLanfear_RSB_Epauciflora_gDNA	72_RB5H_1_S8_R2_001.fastq.gz		
+RB5	A	SN877_0461_RLanfear_RSB_Epauciflora_gDNA	73_RB5A_1_S9_R1_001.fastq.gz		
+RB5	A	SN877_0461_RLanfear_RSB_Epauciflora_gDNA	73_RB5A_1_S9_R2_001.fastq.gz		
+RB5	B	SN877_0461_RLanfear_RSB_Epauciflora_gDNA	74_RB5B_1_S10_R1_001.fastq.gz		
+RB5	B	SN877_0461_RLanfear_RSB_Epauciflora_gDNA	74_RB5B_1_S10_R2_001.fastq.gz		
+RB5	C	SN877_0461_RLanfear_RSB_Epauciflora_gDNA	75_RB5C_1_S11_R1_001.fastq.gz		
+RB5	C	SN877_0461_RLanfear_RSB_Epauciflora_gDNA	75_RB5C_1_S11_R2_001.fastq.gz		
+RB5	D	SN877_0461_RLanfear_RSB_Epauciflora_gDNA	76_RB5D_1_S12_R1_001.fastq.gz		
+RB5	D	SN877_0461_RLanfear_RSB_Epauciflora_gDNA	76_RB5D_1_S12_R2_001.fastq.gz		
+RB5	E	SN877_0461_RLanfear_RSB_Epauciflora_gDNA	77_RB5E_1_S13_R1_001.fastq.gz		
+RB5	E	SN877_0461_RLanfear_RSB_Epauciflora_gDNA	77_RB5E_1_S13_R2_001.fastq.gz		
+RB5	F	SN877_0461_RLanfear_RSB_Epauciflora_gDNA	78_RB5F_1_S14_R1_001.fastq.gz		
+RB5	F	SN877_0461_RLanfear_RSB_Epauciflora_gDNA	78_RB5F_1_S14_R2_001.fastq.gz		
+RB5	G	SN877_0461_RLanfear_RSB_Epauciflora_gDNA	79_RB5G_1_S15_R1_001.fastq.gz		
+RB5	G	SN877_0461_RLanfear_RSB_Epauciflora_gDNA	79_RB5G_1_S15_R2_001.fastq.gz		
+RB5	H	SN877_0461_RLanfear_RSB_Epauciflora_gDNA	80_RB5H_1_S16_R1_001.fastq.gz		
+RB5	H	SN877_0461_RLanfear_RSB_Epauciflora_gDNA	80_RB5H_1_S16_R2_001.fastq.gz		
+RB5	A	SN877_0461_RLanfear_RSB_Epauciflora_gDNA	81_RB5A_1_S17_R1_001.fastq.gz		
+RB5	A	SN877_0461_RLanfear_RSB_Epauciflora_gDNA	81_RB5A_1_S17_R2_001.fastq.gz		
+RB5	B	SN877_0461_RLanfear_RSB_Epauciflora_gDNA	82_RB5B_1_S18_R1_001.fastq.gz		
+RB5	B	SN877_0461_RLanfear_RSB_Epauciflora_gDNA	82_RB5B_1_S18_R2_001.fastq.gz		
+RB5	C	SN877_0461_RLanfear_RSB_Epauciflora_gDNA	83_RB5C_1_S19_R1_001.fastq.gz		
+RB5	C	SN877_0461_RLanfear_RSB_Epauciflora_gDNA	83_RB5C_1_S19_R2_001.fastq.gz		
+RB5	D	SN877_0461_RLanfear_RSB_Epauciflora_gDNA	84_RB5D_1_S20_R1_001.fastq.gz		
+RB5	D	SN877_0461_RLanfear_RSB_Epauciflora_gDNA	84_RB5D_1_S20_R2_001.fastq.gz		
+RB5	E	SN877_0461_RLanfear_RSB_Epauciflora_gDNA	85_RB5E_1_S21_R1_001.fastq.gz		
+RB5	E	SN877_0461_RLanfear_RSB_Epauciflora_gDNA	85_RB5E_1_S21_R2_001.fastq.gz		
+RB5	F	SN877_0461_RLanfear_RSB_Epauciflora_gDNA	86_RB5F_1_S22_R1_001.fastq.gz		
+RB5	F	SN877_0461_RLanfear_RSB_Epauciflora_gDNA	86_RB5F_1_S22_R2_001.fastq.gz		
+RB5	G	SN877_0461_RLanfear_RSB_Epauciflora_gDNA	87_RB5G_1_S23_R1_001.fastq.gz		
+RB5	G	SN877_0461_RLanfear_RSB_Epauciflora_gDNA	87_RB5G_1_S23_R2_001.fastq.gz		
+RB5	H	SN877_0461_RLanfear_RSB_Epauciflora_gDNA	88_RB5H_1_S24_R1_001.fastq.gz		
+RB5	H	SN877_0461_RLanfear_RSB_Epauciflora_gDNA	88_RB5H_1_S24_R2_001.fastq.gz		
+RB98	A	SN877_0462_RLanfear_RSB_Epauciflora_gDNA	89_RB98A_1_S1_R1_001.fastq.gz		
+RB98	A	SN877_0462_RLanfear_RSB_Epauciflora_gDNA	89_RB98A_1_S1_R2_001.fastq.gz		
+RB98	B	SN877_0462_RLanfear_RSB_Epauciflora_gDNA	90_RB98B_2_S2_R1_001.fastq.gz		
+RB98	B	SN877_0462_RLanfear_RSB_Epauciflora_gDNA	90_RB98B_2_S2_R2_001.fastq.gz		
+RB98	C	SN877_0462_RLanfear_RSB_Epauciflora_gDNA	91_RB98C_1_S3_R1_001.fastq.gz		
+RB98	C	SN877_0462_RLanfear_RSB_Epauciflora_gDNA	91_RB98C_1_S3_R2_001.fastq.gz		
+RB98	D	SN877_0462_RLanfear_RSB_Epauciflora_gDNA	92_RB98D_1_S4_R1_001.fastq.gz		
+RB98	D	SN877_0462_RLanfear_RSB_Epauciflora_gDNA	92_RB98D_1_S4_R2_001.fastq.gz		
+RB98	E	SN877_0462_RLanfear_RSB_Epauciflora_gDNA	93_RB98E_2_S5_R1_001.fastq.gz		
+RB98	E	SN877_0462_RLanfear_RSB_Epauciflora_gDNA	93_RB98E_2_S5_R2_001.fastq.gz		
+RB98	F	SN877_0462_RLanfear_RSB_Epauciflora_gDNA	94_RB98F_1_S6_R1_001.fastq.gz		
+RB98	F	SN877_0462_RLanfear_RSB_Epauciflora_gDNA	94_RB98F_1_S6_R2_001.fastq.gz		
+RB98	G	SN877_0462_RLanfear_RSB_Epauciflora_gDNA	95_RB98G_1_S7_R1_001.fastq.gz		
+RB98	G	SN877_0462_RLanfear_RSB_Epauciflora_gDNA	95_RB98G_1_S7_R2_001.fastq.gz		
+RB98	H	SN877_0462_RLanfear_RSB_Epauciflora_gDNA	96_RB98_H1_S8_R1_001.fastq.gz		
+RB98	H	SN877_0462_RLanfear_RSB_Epauciflora_gDNA	96_RB98_H1_S8_R2_001.fastq.gz		
+RB98	A	SN877_0462_RLanfear_RSB_Epauciflora_gDNA	97_RB98A_1_S9_R1_001.fastq.gz		
+RB98	A	SN877_0462_RLanfear_RSB_Epauciflora_gDNA	97_RB98A_1_S9_R2_001.fastq.gz		
+RB98	B	SN877_0462_RLanfear_RSB_Epauciflora_gDNA	98_RB98B_2_S10_R1_001.fastq.gz		
+RB98	B	SN877_0462_RLanfear_RSB_Epauciflora_gDNA	98_RB98B_2_S10_R2_001.fastq.gz		
+RB98	C	SN877_0462_RLanfear_RSB_Epauciflora_gDNA	99_RB98C_1_S11_R1_001.fastq.gz		
+RB98	C	SN877_0462_RLanfear_RSB_Epauciflora_gDNA	99_RB98C_1_S11_R2_001.fastq.gz		
+RB98	D	SN877_0462_RLanfear_RSB_Epauciflora_gDNA	100_RB98D_1_S12_R1_001.fastq.g		
+RB98	D	SN877_0462_RLanfear_RSB_Epauciflora_gDNA	100_RB98D_1_S12_R2_001.fastq.g		
+RB98	E	SN877_0462_RLanfear_RSB_Epauciflora_gDNA	101_RB98E_2_S13_R1_001.fastq.g		
+RB98	E	SN877_0462_RLanfear_RSB_Epauciflora_gDNA	101_RB98E_2_S13_R2_001.fastq.g		
+RB98	F	SN877_0462_RLanfear_RSB_Epauciflora_gDNA	102_RB98F_1_S14_R1_001.fastq.g		
+RB98	F	SN877_0462_RLanfear_RSB_Epauciflora_gDNA	102_RB98F_1_S14_R2_001.fastq.g		
+RB98	G	SN877_0462_RLanfear_RSB_Epauciflora_gDNA	103_RB98G_1_S15_R1_001.fastq.g		
+RB98	G	SN877_0462_RLanfear_RSB_Epauciflora_gDNA	103_RB98G_1_S15_R2_001.fastq.g		
+RB98	H	SN877_0462_RLanfear_RSB_Epauciflora_gDNA	104_RB98_H1_S16_R1_001.fastq.g		
+RB98	H	SN877_0462_RLanfear_RSB_Epauciflora_gDNA	104_RB98_H1_S16_R2_001.fastq.g		
+RB98	A	SN877_0462_RLanfear_RSB_Epauciflora_gDNA	105_RB98A_1_S17_R1_001.fastq.g		
+RB98	A	SN877_0462_RLanfear_RSB_Epauciflora_gDNA	105_RB98A_1_S17_R2_001.fastq.g		
+RB98	B	SN877_0462_RLanfear_RSB_Epauciflora_gDNA	106_RB98B_2_S18_R1_001.fastq.g		
+RB98	B	SN877_0462_RLanfear_RSB_Epauciflora_gDNA	106_RB98B_2_S18_R2_001.fastq.g		
+RB98	C	SN877_0462_RLanfear_RSB_Epauciflora_gDNA	107_RB98C_1_S19_R1_001.fastq.g		
+RB98	C	SN877_0462_RLanfear_RSB_Epauciflora_gDNA	107_RB98C_1_S19_R2_001.fastq.g		
+RB98	D	SN877_0462_RLanfear_RSB_Epauciflora_gDNA	108_RB98D_1_S20_R1_001.fastq.g		
+RB98	D	SN877_0462_RLanfear_RSB_Epauciflora_gDNA	108_RB98D_1_S20_R2_001.fastq.g		
+RB98	E	SN877_0462_RLanfear_RSB_Epauciflora_gDNA	109_RB98E_2_S21_R1_001.fastq.g		
+RB98	E	SN877_0462_RLanfear_RSB_Epauciflora_gDNA	109_RB98E_2_S21_R2_001.fastq.g		
+RB98	F	SN877_0462_RLanfear_RSB_Epauciflora_gDNA	110_RB98F_1_S22_R1_001.fastq.g		
+RB98	F	SN877_0462_RLanfear_RSB_Epauciflora_gDNA	110_RB98F_1_S22_R2_001.fastq.g		
+RB98	G	SN877_0462_RLanfear_RSB_Epauciflora_gDNA	111_RB98G_1_S23_R1_001.fastq.g		
+RB98	G	SN877_0462_RLanfear_RSB_Epauciflora_gDNA	111_RB98G_1_S23_R2_001.fastq.g		
+RB98	H	SN877_0462_RLanfear_RSB_Epauciflora_gDNA	112_RB98_H1_S24_R1_001.fastq.g		
+RB98	H	SN877_0462_RLanfear_RSB_Epauciflora_gDNA	112_RB98_H1_S24_R2_001.fastq.g		
+RB98	A	SN877_0463_RLanfear_RSB_Epauciflora_gDNA	89_RB98A_1_S1_R1_001.fastq.gz		
+RB98	A	SN877_0463_RLanfear_RSB_Epauciflora_gDNA	89_RB98A_1_S1_R2_001.fastq.gz		
+RB98	B	SN877_0463_RLanfear_RSB_Epauciflora_gDNA	90_RB98B_2_S2_R1_001.fastq.gz		
+RB98	B	SN877_0463_RLanfear_RSB_Epauciflora_gDNA	90_RB98B_2_S2_R2_001.fastq.gz		
+RB98	C	SN877_0463_RLanfear_RSB_Epauciflora_gDNA	91_RB98C_1_S3_R1_001.fastq.gz		
+RB98	C	SN877_0463_RLanfear_RSB_Epauciflora_gDNA	91_RB98C_1_S3_R2_001.fastq.gz		
+RB98	D	SN877_0463_RLanfear_RSB_Epauciflora_gDNA	92_RB98D_1_S4_R1_001.fastq.gz		
+RB98	D	SN877_0463_RLanfear_RSB_Epauciflora_gDNA	92_RB98D_1_S4_R2_001.fastq.gz		
+RB98	E	SN877_0463_RLanfear_RSB_Epauciflora_gDNA	93_RB98E_2_S5_R1_001.fastq.gz		
+RB98	E	SN877_0463_RLanfear_RSB_Epauciflora_gDNA	93_RB98E_2_S5_R2_001.fastq.gz		
+RB98	F	SN877_0463_RLanfear_RSB_Epauciflora_gDNA	94_RB98F_1_S6_R1_001.fastq.gz		
+RB98	F	SN877_0463_RLanfear_RSB_Epauciflora_gDNA	94_RB98F_1_S6_R2_001.fastq.gz		
+RB98	G	SN877_0463_RLanfear_RSB_Epauciflora_gDNA	95_RB98G_1_S7_R1_001.fastq.gz		
+RB98	G	SN877_0463_RLanfear_RSB_Epauciflora_gDNA	95_RB98G_1_S7_R2_001.fastq.gz		
+RB98	H	SN877_0463_RLanfear_RSB_Epauciflora_gDNA	96_RB98_H1_S8_R1_001.fastq.gz		
+RB98	H	SN877_0463_RLanfear_RSB_Epauciflora_gDNA	96_RB98_H1_S8_R2_001.fastq.gz		
+RB98	A	SN877_0463_RLanfear_RSB_Epauciflora_gDNA	97_RB98A_1_S9_R1_001.fastq.gz		
+RB98	A	SN877_0463_RLanfear_RSB_Epauciflora_gDNA	97_RB98A_1_S9_R2_001.fastq.gz		
+RB98	B	SN877_0463_RLanfear_RSB_Epauciflora_gDNA	98_RB98B_2_S10_R1_001.fastq.gz		
+RB98	B	SN877_0463_RLanfear_RSB_Epauciflora_gDNA	98_RB98B_2_S10_R2_001.fastq.gz		
+RB98	C	SN877_0463_RLanfear_RSB_Epauciflora_gDNA	99_RB98C_1_S11_R1_001.fastq.gz		
+RB98	C	SN877_0463_RLanfear_RSB_Epauciflora_gDNA	99_RB98C_1_S11_R2_001.fastq.gz		
+RB98	D	SN877_0463_RLanfear_RSB_Epauciflora_gDNA	100_RB98D_1_S12_R1_001.fastq.gz		
+RB98	D	SN877_0463_RLanfear_RSB_Epauciflora_gDNA	100_RB98D_1_S12_R2_001.fastq.gz		
+RB98	E	SN877_0463_RLanfear_RSB_Epauciflora_gDNA	101_RB98E_2_S13_R1_001.fastq.gz		
+RB98	E	SN877_0463_RLanfear_RSB_Epauciflora_gDNA	101_RB98E_2_S13_R2_001.fastq.gz		
+RB98	F	SN877_0463_RLanfear_RSB_Epauciflora_gDNA	102_RB98F_1_S14_R1_001.fastq.gz		
+RB98	F	SN877_0463_RLanfear_RSB_Epauciflora_gDNA	102_RB98F_1_S14_R2_001.fastq.gz		
+RB98	G	SN877_0463_RLanfear_RSB_Epauciflora_gDNA	103_RB98G_1_S15_R1_001.fastq.gz		
+RB98	G	SN877_0463_RLanfear_RSB_Epauciflora_gDNA	103_RB98G_1_S15_R2_001.fastq.gz		
+RB98	H	SN877_0463_RLanfear_RSB_Epauciflora_gDNA	104_RB98_H1_S16_R1_001.fastq.gz		
+RB98	H	SN877_0463_RLanfear_RSB_Epauciflora_gDNA	104_RB98_H1_S16_R2_001.fastq.gz		
+RB98	A	SN877_0463_RLanfear_RSB_Epauciflora_gDNA	105_RB98A_1_S17_R1_001.fastq.gz		
+RB98	A	SN877_0463_RLanfear_RSB_Epauciflora_gDNA	105_RB98A_1_S17_R2_001.fastq.gz		
+RB98	B	SN877_0463_RLanfear_RSB_Epauciflora_gDNA	106_RB98B_2_S18_R1_001.fastq.gz		
+RB98	B	SN877_0463_RLanfear_RSB_Epauciflora_gDNA	106_RB98B_2_S18_R2_001.fastq.gz		
+RB98	C	SN877_0463_RLanfear_RSB_Epauciflora_gDNA	107_RB98C_1_S19_R1_001.fastq.gz		
+RB98	C	SN877_0463_RLanfear_RSB_Epauciflora_gDNA	107_RB98C_1_S19_R2_001.fastq.gz		
+RB98	D	SN877_0463_RLanfear_RSB_Epauciflora_gDNA	108_RB98D_1_S20_R1_001.fastq.gz		
+RB98	D	SN877_0463_RLanfear_RSB_Epauciflora_gDNA	108_RB98D_1_S20_R2_001.fastq.gz		
+RB98	E	SN877_0463_RLanfear_RSB_Epauciflora_gDNA	109_RB98E_2_S21_R1_001.fastq.gz		
+RB98	E	SN877_0463_RLanfear_RSB_Epauciflora_gDNA	109_RB98E_2_S21_R2_001.fastq.gz		
+RB98	F	SN877_0463_RLanfear_RSB_Epauciflora_gDNA	110_RB98F_1_S22_R1_001.fastq.gz		
+RB98	F	SN877_0463_RLanfear_RSB_Epauciflora_gDNA	110_RB98F_1_S22_R2_001.fastq.gz		
+RB98	G	SN877_0463_RLanfear_RSB_Epauciflora_gDNA	111_RB98G_1_S23_R1_001.fastq.gz		
+RB98	G	SN877_0463_RLanfear_RSB_Epauciflora_gDNA	111_RB98G_1_S23_R2_001.fastq.gz		
+RB98	H	SN877_0463_RLanfear_RSB_Epauciflora_gDNA	112_RB98_H1_S24_R1_001.fastq.gz		
+RB98	H	SN877_0463_RLanfear_RSB_Epauciflora_gDNA	112_RB98_H1_S24_R2_001.fastq.gz		
