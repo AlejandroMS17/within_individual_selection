@@ -5,10 +5,10 @@ mkdir $outputf
 threads=25 # number of threads to use
 kmer_size=21 # kmer size to use for minhash sketches
 m=5 # Minimum copies of each k-mer required to pass noise filter for reads. You can estimate this by running genomescope first...
-s=1000000 #Sketch size. Each sketch will have at most this many non-redundant min-hashes. Bigger is better but slower.
-sg='100M' 
+s=10000000 #Sketch size. Each sketch will have at most this many non-redundant min-hashes. Bigger is better but slower.
+sg=6000000000 # G+Gcek from the manual: G = 500M (genome size), c = 30x, e = 1%, k = ~32, so sg ~ 6000000000
 read_length=150 # length of reads in your input fastq files
-kmer_max=5000 # ignore kmers represented more the kmer_max times (avoids issues with e.g. cpDNA)
+kmer_max=500 # ignore kmers represented more the kmer_max times (avoids issues with e.g. cpDNA)
 
 cd $outputf
 
@@ -28,22 +28,19 @@ done
 
 # first we do genomescoepe to help choose parameters for the mash analysis and QC the data
 
-#for readf in $(find *.fastq.gz); do
-#
-#	# count kmers in jellyfish, then make a histogram. NB: use zcat because jellyfish needs raw fastq, not .gz
-#	zcat $readf | jellyfish count -C -m $kmer_size -s $sg -t $threads -o $outputf$readf'.jf' /dev/fd/0
-#	jellyfish histo -t $threads $outputf$readf'.jf' > $readf'.histo'
-#
-#	# run genomescope and put the output in a new directory
-#	id=`echo "$readf" | cut -d'.' -f1`
-#	genomescope.R $readf'.histo' $kmer_size $read_length $outputf$id $kmer_max verbose
-#
-#done
+for readf in $(find *.fastq.gz); do
+	# count kmers in jellyfish, then make a histogram. NB: use zcat because jellyfish needs raw fastq, not .gz
+	zcat $readf | jellyfish count -C -m $kmer_size -s $sg -t $threads -o $outputf$readf'.jf' /dev/fd/0
+	jellyfish histo -t $threads $outputf$readf'.jf' > $readf'.histo'
+	# run genomescope and put the output in a new directory
+	id=`echo "$readf" | cut -d'.' -f1`
+	genomescope.R $readf'.histo' $kmer_size $read_length $outputf$id $kmer_max verbose
+done
 
 
-# now we mash
+# now we mash, genome size estimated at 500MB
 gzs=$(find *.fastq.gz)
-mash sketch -p $threads -m $m -k $kmer_size -s $s $gzs
+mash sketch -p $threads -m $m -k $kmer_size -s $s -g 500000000 $gzs
 
 # use mash paste to join the sketches together
 fs=$(find *.msh)
@@ -56,3 +53,5 @@ mash info raw.msh
 mash dist raw.msh raw.msh > distances.tab
 
 Rscript --vanilla heatmap.r $outputf"distances.tab" $outputf"heatmap.pdf"
+
+rm *.fastq.gz
