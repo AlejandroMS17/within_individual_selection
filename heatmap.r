@@ -16,18 +16,16 @@ diag(dst) = NA # set diagonals to NA to avoid colour washout, HT: https://twitte
 dim = ncol(dst)
 
 samples = rownames(dst)
-splits = strsplit(samples, "_")
-splitmat = matrix(unlist(splits),ncol=3,byrow=TRUE)
-samples = as.character(as.data.frame(splitmat)[,2])
+splits = unlist(strsplit(samples, ".fastq.gz"))
 
-rownames(dst) = samples
-colnames(dst) = samples
+rownames(dst) = splits
+colnames(dst) = splits
 
 pdf(file=outputf)
 
 image(1:dim, 1:dim, dst, axes = FALSE, xlab="", ylab="")
 axis(1, 1:dim, rownames(dst), cex.axis = 0.5, las=3)
 axis(2, 1:dim, rownames(dst), cex.axis = 0.5, las=1)
-text(expand.grid(1:dim, 1:dim), sprintf("%.3f", dst), cex=0.4)
+text(expand.grid(1:dim, 1:dim), sprintf("%.4f", dst), cex=0.4)
 
 dev.off()
