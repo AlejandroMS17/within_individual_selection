@@ -39,19 +39,17 @@ done
 
 
 # now we mash, genome size estimated at 500MB
+# do it with different error cutoffs and kmer sizes (m and k)
 gzs=$(find *.fastq.gz)
-mash sketch -p $threads -m $m -k $kmer_size -s $s -g 500000000 $gzs
-
-# use mash paste to join the sketches together
-fs=$(find *.msh)
-mash paste raw $fs   
-
-# verify it worked
-mash info raw.msh
-
-# calculate all pairwise distances
-mash dist raw.msh raw.msh > distances.tab
-
-Rscript --vanilla heatmap.r $outputf"distances.tab" $outputf"heatmap.pdf"
+for m in 2 4 6 8 10; do
+	for kmer_size in 19 21 23 27 31; do
+		id="m"$m"_k"$kmer_size
+		mash sketch -p $threads -m $m -k $kmer_size -s $s -g 500000000 -o $id $gzs 
+		mash info $id".msh"
+		mash dist $id".msh" $id".msh" > $id".tab"
+		Rscript --vanilla heatmap.r $outputf$id".tab" $outputf$id"_heatmap.pdf"
+	done
+done
 
 rm *.fastq.gz
+rm *.msh
