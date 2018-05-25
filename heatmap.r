@@ -6,6 +6,8 @@ outputf = args[2]
 
 library(reshape2)
 
+#inputf = "~/Documents/github/within_individual_selection/k21/distances.tab"
+
 d = read.delim(inputf, header=F)
 d = d[,c(1,2,3)]
 names(d) = c("sample1", "sample2", "distance")
